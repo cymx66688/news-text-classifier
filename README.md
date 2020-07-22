@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # news-text-classifier
 新闻文本分类(NLP天池赛事)  [网址](https://tianchi.aliyun.com/competition/entrance/531810/information)
 
@@ -12,7 +11,4 @@
 
 或直接在百度云下载：[链接](https://pan.baidu.com/s/1GLvCmZGbbzJAHtkkGfhGhQ)  提取码：fgjg
 
-=======
-# news-text-classifier
-新闻文本分类(NLP天池赛事)
->>>>>>> 037631e5fe94a02b29bcccd8e79cc162ae59d8d6
+
