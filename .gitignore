@@ -130,3 +130,6 @@ dmypy.json
 
 # 忽略数据集
 input/
+
+# 忽略模型
+model/
